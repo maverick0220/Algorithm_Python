@@ -10,11 +10,11 @@ files in this project shoule be able to run directly(they are actually demos, if
 put it in your IDE and run, or in command line enviroment and `python3 <fileName>.py`
 放进你自己的IDE或者在命令行环境下运行
 
-#Algorithms List Already Applied
-1.Jacobi迭代
-2.超定线性方程组的最小二乘解
-3.拉格朗日插值法
-4.暴力计算Pi值
-5.k-means聚类
-6.基于卷积算法的图像边缘提取
-7.图像字符化
+#Algorithms List Already Applied  
+1.Jacobi迭代  
+2.超定线性方程组的最小二乘解  
+3.拉格朗日插值法  
+4.暴力计算Pi值  
+5.k-means聚类  
+6.基于卷积算法的图像边缘提取(老版本的OpenCV，可能运行有问题）
+7.图像字符化  
